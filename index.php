@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
+        /*que buen programador soy, no necesito IDE */
         ?>
     </body>
 </html>
